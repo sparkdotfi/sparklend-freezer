@@ -59,6 +59,3 @@ For the multisig to execute a freeze/pause in SparkLend, the quorum must be reac
 ## Testing
 
 To run the tests, run `forge test`.
-
-***
-*The IP in this repository was assigned to Mars SPC Limited in respect of the MarsOne SP*
